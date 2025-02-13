@@ -9,3 +9,5 @@ word_1 = "robots"
 word_2 = "built"
 word_3 = "today"
 word_4 = "were"
+result = str(int(num_str_1) + int(num_str_2)) + " " + word_1 + " " + word_2 + " " + word_3 + " " + word_4
+print(result)
